@@ -1,0 +1,23 @@
+{
+  "repo": "diptrace-max",
+  "product": "DipTrace Max",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "diptrace",
+    "diptrace-windows",
+    "engineering-cad-desktop",
+    "how-to-install-diptrace",
+    "diptrace-desktop-package",
+    "diptrace-workspace",
+    "diptrace-pro-tools",
+    "diptrace-suite",
+    "zentool-diptrace",
+    "diptrace-tool-9"
+  ],
+  "site": "zentool.art"
+}
